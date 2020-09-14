@@ -1,0 +1,36 @@
+.result {
+  height: 60px;
+  width: 100%;
+  border-style: solid;
+  border-color: #E0ECF8;
+  border-radius: 10px;
+}
+
+.result p {
+  font-size: 40px;
+  margin: 5px;
+}
+
+.calculator-body {
+  max-width: 400px;
+  margin: auto;
+}
+
+.button {
+  display: block;
+  background-color: #dfe1e5;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+  border-color: white;
+}
+
+.number-button{
+  background-color: white !important;
+}
+.equal-button{
+  background-color: #4d8bf1 !important;
+}
